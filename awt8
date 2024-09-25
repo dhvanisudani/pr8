@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "name": "Dhvani",
+    "username": "dhvani2426",
+    "email": "dhvanisudani24@gmail.com",
+    "address": {
+      "street": "123 Elm Street"
+    }
+  },
+  {
+    "id": 2,
+    "name": "dhyan",
+    "username": "dhyan53",
+    "email": "dhyaannn27@gmail.com",
+    "address": {
+      "street": "456 Oak Avenue"
+    }
+  },
+  {
+    "id": 3,
+    "name": "ramy",
+    "username": "ramy251",
+    "email": "ramygt@gmail.com",
+    "address": {
+      "street": "789 Pine Road"
+    }
+  },
+  {
+    "id": 4,
+    "name": "tirth",
+    "username": "tirthd268",
+    "email": "tirthpatel@gmail.com",
+    "address": {
+      "street": "012 Maple Lane"
+    }
+  },
+  {
+    "id": 5,
+    "name": "kadrii",
+    "username": "jayallah265",
+    "email": "imramkadri@gmail.com",
+    "address": {
+      "street": "345 Birch Drive"
+    }
+  },
+  {
+    "id": 6,
+    "name": "dhanya",
+    "username": "dhanyasm272",
+    "email": "dmangrolia@gmail.com",
+    "address": {
+      "street": "678 Cedar Blvd"
+    }
+  },
+  {
+    "id": 7,
+    "name": "kesar",
+    "username": "pista235",
+    "email": "kshah@gmail.com",
+    "address": {
+      "street": "Rex Trail"
+    }
+  },
+
+  {
+    "id": 8,
+    "name": "dhairya",
+    "username": "dns245",
+    "email": "dhairyas@gmail.com",
+    "address": {
+      "street": "Ellsworth Summit"
+    }
+  },
+
+  {
+    "id": 9,
+    "name": "satvik",
+    "username": "satu266",
+    "email": "satviksm@gmail.com",
+    "address": {
+      "street": "Dayna Park"
+    }
+  },
+
+  {
+    "id": 10,
+    "name": "steve",
+    "username": "stevej248",
+    "email": "stevejobs@gmail.com",
+    "address": {
+      "street": "Kattie Turnpike"
+    }
+  }
+]
